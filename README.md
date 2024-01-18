@@ -18,4 +18,3 @@
 * FuzzySecurity: https://fuzzysecurity.com/tutorials/expDev/1.html
 * Windows Privilege Escalation 1: https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
 * Windows Privilege Escalation 2: https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html
-* 
