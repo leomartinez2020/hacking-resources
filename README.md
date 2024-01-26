@@ -20,3 +20,5 @@
 * Windows Privilege Escalation 2: https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html
 * Bug Bounty disclosed reports: https://www.bugbountyhunter.com/disclosed/
 * Linux PricEsc: https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+* GTFOBins (GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems): https://gtfobins.github.io/#find
+* LOLBAS (like GTFOBins but for Windows): https://lolbas-project.github.io/
